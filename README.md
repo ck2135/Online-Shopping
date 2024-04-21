@@ -18,3 +18,14 @@ This project aims to develop an online shopping platform using ReactJS that util
 
 **Checkout Process:** Implement a checkout process where users can review their order, enter shipping details, and choose payment options.
 
+**Media:**
+![image](https://github.com/ck2135/Online-Shopping/assets/59825064/ca0b5d44-23ac-452f-9f44-f1bbe689a7a0)
+
+![image](https://github.com/ck2135/Online-Shopping/assets/59825064/159a71f7-ec1b-483e-9264-4ab38345b220)
+
+![image](https://github.com/ck2135/Online-Shopping/assets/59825064/2e17db20-bbc0-4315-a735-037b25a8edad)
+
+![image](https://github.com/ck2135/Online-Shopping/assets/59825064/e9dea03f-0e39-4c33-b139-0377548810cf)
+
+
+
